@@ -1,6 +1,7 @@
 #include<iostream>
 #define N 100
 using namespace std;
+
 void Searching (int n,int arr[],int k);
 int main (){
     int array[N],o,j;
